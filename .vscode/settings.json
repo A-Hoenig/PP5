@@ -3,5 +3,6 @@
         "Codeanywhere",
         "Kaggle",
         "slugignore"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
